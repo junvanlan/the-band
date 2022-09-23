@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2102842.css",
+    "main.js": "/static/js/main.5a6982aa.js",
+    "static/js/787.4c9d15e8.chunk.js": "/static/js/787.4c9d15e8.chunk.js",
+    "static/media/map.jpg": "/static/media/map.f164b4bdad91e4ceeac8.jpg",
+    "static/media/newyork.jpg": "/static/media/newyork.b1dc0f216fa01bd147ff.jpg",
+    "static/media/chicago.jpg": "/static/media/chicago.3f06c0720d859aa67c95.jpg",
+    "static/media/paris.jpg": "/static/media/paris.5ea39f78e2aff3742d38.jpg",
+    "static/media/ny.jpg": "/static/media/ny.d26ced9f983cd4410e83.jpg",
+    "static/media/la.jpg": "/static/media/la.7c2c11ce43be36574e22.jpg",
+    "static/media/sanfran.jpg": "/static/media/sanfran.b00af96eac786d56831e.jpg",
+    "index.html": "/index.html",
+    "main.b2102842.css.map": "/static/css/main.b2102842.css.map",
+    "main.5a6982aa.js.map": "/static/js/main.5a6982aa.js.map",
+    "787.4c9d15e8.chunk.js.map": "/static/js/787.4c9d15e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2102842.css",
+    "static/js/main.5a6982aa.js"
+  ]
+}
