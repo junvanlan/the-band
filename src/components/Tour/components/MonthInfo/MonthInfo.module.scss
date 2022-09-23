@@ -1,0 +1,36 @@
+.wrapper {
+    background-color: #fff;
+    display: flex;
+    padding: 8px 16px;
+    align-items: center;
+    justify-content: space-between;
+    +.wrapper {
+        border-top: 1px solid #ddd;
+    }
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+.month {
+    color: #757575;
+    margin: 0;
+}
+
+.lost-tikcet {
+    padding: 0 8px;
+    margin: 0 16px;
+    background-color: #f44336;
+    color: #fff;
+}
+
+.has-ticket {
+    background-color: #000;
+    margin: 0 16px;
+    color: #fff;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 50%;
+}

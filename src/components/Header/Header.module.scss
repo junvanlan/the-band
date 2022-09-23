@@ -1,0 +1,45 @@
+.wrapper {
+    height: var(--header-height);
+    background-color: var(--header-bg);
+    color: var(--headet-text-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+}
+
+.aciton {
+    display: flex;
+}
+
+.icon {
+    width: 60px;
+    height: var(--header-height);
+    padding: 14px;
+    color: #fff;
+    &:hover {
+        background-color: #ccc;
+        color: #000;
+    }
+}
+
+.hide-phone {
+    display: block;
+}
+
+.show-phone {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    .hide-phone {
+        display: none;
+    }
+    .show-phone {
+        display: block;
+    }
+}

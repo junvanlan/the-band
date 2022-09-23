@@ -1,0 +1,112 @@
+.wrapper {
+    margin-top: 15px;
+}
+
+.buy-btn {
+    color: #fff;
+    padding: 8px 16px;
+    background-color: #000;
+    border: none;
+    font-size: 1.5rem;
+}
+
+.modal-wrapper {
+    align-items: center;
+    margin-top: 100px;
+    border: none;
+}
+
+.modal-inner {
+    width: 900px;
+    background-color: #fff;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #009688;
+    color: #fff;
+    padding: 32px 16px;
+    position: relative;
+}
+
+.icon {
+    font-size: 3rem;
+    margin-right: 22px;
+}
+
+.modal-title {
+    font-size: 3rem;
+    letter-spacing: 4px;
+    margin: 10px 0;
+}
+
+.modal-close {
+    position: absolute;
+    padding: 16px;
+    top: 0;
+    right: 0;
+    &:hover {
+        background-color: #ccc;
+    }
+}
+
+//for body
+.input-form {}
+
+.input-header {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.input-title {
+    padding-left: 4px;
+    margin-bottom: 0;
+    font-size: 1.5rem;
+}
+
+.input-box {
+    width: 100%;
+    padding: 8px;
+    margin-top: 15px;
+    border: 1px solid #cccccc;
+}
+
+.modal-submit {
+    width: 100%;
+    padding: 16px;
+    margin: 15px 0;
+    background-color: #1a9488;
+    border: none;
+    color: #fff;
+    font-weight: 700;
+    &:hover {
+        background-color: #ccc;
+        color: #000;
+    }
+}
+
+.modal-footer-wrapper {
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 10px;
+}
+
+.modal-footer-close {
+    font-size: 1.7rem;
+    display: flex;
+    align-items: center;
+    padding: 4px 16px;
+}
+
+.modal-footer-close-icon {
+    padding-left: 6px;
+    font-weight: 700;
+}
+
+.modal-footer-help {}
+
+.modal-help-link {}
